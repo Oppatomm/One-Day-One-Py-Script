@@ -1,4 +1,4 @@
-# Day 1- Hello, World! Printer
+# Day 1 - Hello, World! Printer
 
 > **One Day One Py Script** · Phase 1 : Python Foundations
 
