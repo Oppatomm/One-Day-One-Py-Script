@@ -38,7 +38,7 @@
 |---|---|---|
 | [Day 1](./Day-01/) | Hello, World! Printer | print, string |
 | [Day 2](./Day-02/) | Simple calculator | arithmetic, input |
-| Day 3 | Temperature converter | formula, float |
+| [Day 3](./Day-03/) | Temperature converter | formula, float |
 | Day 4 | Even/odd checker | modulo, condition |
 | Day 5 | BMI calculator | formula, input |
 | Day 6 | Number guessing game | random, loop |
@@ -157,11 +157,14 @@
 
 ```
 One-Day-One-Py-Script/
-├── day-01/
+├── Day-01/
 │   ├── Hello, World! Printer.py
 │   └── README.md
-├── day-02/
+├── Day-02/
 │   ├── Simple calculator.py
+│   └── README.md
+├── Day-03/
+│   ├── Temperature converter.py
 │   └── README.md
 └── README.md
 ```
@@ -170,4 +173,4 @@ One-Day-One-Py-Script/
 
 ## Progress
 
-`2 / 99 days completed`
+`3 / 99 days completed`
