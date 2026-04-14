@@ -40,7 +40,7 @@
 | [Day 2](./Day-02/) | Simple calculator | arithmetic, input |
 | [Day 3](./Day-03/) | Temperature converter | formula, float |
 | [Day 4](./Day-04/) | Even/odd checker | modulo, condition |
-| Day 5 | BMI calculator | formula, input |
+| [Day 5](./Day-05/) | BMI calculator | formula, input |
 | Day 6 | Number guessing game | random, loop |
 | Day 7 | Multiplication table | nested loop |
 | Day 8 | FizzBuzz | loop, condition |
@@ -169,6 +169,9 @@ One-Day-One-Py-Script/
 ├── Day-04/
 │   ├── Even odd checker.py
 │   └── README.md
+├── Day-05/
+│   ├── BMI calculator.py
+│   └── README.md
 └── README.md
 ```
 
@@ -176,4 +179,4 @@ One-Day-One-Py-Script/
 
 ## Progress
 
-`3 / 99 days completed`
+`5 / 99 days completed`
