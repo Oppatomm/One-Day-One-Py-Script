@@ -1,4 +1,4 @@
-# Day 2 - Temperature converter
+# Day 3 - Temperature converter
 
 > **One Day One Py Script** · Phase 1 : Python Foundations
 
