@@ -13,6 +13,7 @@ class NumberGuessingGame :
     def start_game(self) :
         num = random.randint(1,100)
 
+        print("== Number guessing game ==")
         while True :
             try :
                 choice = int(input("Enter the numbers : "))
@@ -34,6 +35,7 @@ app.start_game()
 ## Output
 
 ```
+== Number guessing game ==
 Enter the numbers : 43
 43 Your guess is too low
 Enter the numbers : 50

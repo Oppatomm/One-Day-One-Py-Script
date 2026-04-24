@@ -6,6 +6,7 @@ class NumberGuessingGame :
     def start_game(self) :
         num = random.randint(1,100)
 
+        print("== Number guessing game ==")
         while True :
             try :
                 choice = int(input("Enter the numbers : "))
