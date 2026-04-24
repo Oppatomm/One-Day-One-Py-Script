@@ -41,7 +41,7 @@
 | [Day 3](./Day-03/) | Temperature converter | formula, float |
 | [Day 4](./Day-04/) | Even/odd checker | modulo, condition |
 | [Day 5](./Day-05/) | BMI calculator | formula, input |
-| Day 6 | Number guessing game | random, loop |
+| [Day 6](./Day-06/) | Number guessing game | random, loop |
 | Day 7 | Multiplication table | nested loop |
 | Day 8 | FizzBuzz | loop, condition |
 | Day 9 | Simple countdown timer | loop, time |
@@ -171,6 +171,9 @@ One-Day-One-Py-Script/
 │   └── README.md
 ├── Day-05/
 │   ├── BMI calculator.py
+│   └── README.md
+├── Day-06/
+│   ├── Number guessing game.py
 │   └── README.md
 └── README.md
 ```
