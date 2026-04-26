@@ -42,7 +42,7 @@
 | [Day 4](./Day-04/) | Even/odd checker | modulo, condition |
 | [Day 5](./Day-05/) | BMI calculator | formula, input |
 | [Day 6](./Day-06/) | Number guessing game | random, loop |
-| Day 7 | Multiplication table | nested loop |
+| [Day 7](./Day-07/) | Multiplication table | nested loop |
 | Day 8 | FizzBuzz | loop, condition |
 | Day 9 | Simple countdown timer | loop, time |
 | Day 10 | Rock paper scissors | random, match |
@@ -175,6 +175,9 @@ One-Day-One-Py-Script/
 ├── Day-06/
 │   ├── Number guessing game.py
 │   └── README.md
+├── Day-07/
+│   ├── Multiplication table.py
+│   └── README.md
 └── README.md
 ```
 
@@ -182,4 +185,4 @@ One-Day-One-Py-Script/
 
 ## Progress
 
-`5 / 99 days completed`
+`7 / 99 days completed`
