@@ -43,7 +43,7 @@
 | [Day 5](./Day-05/) | BMI calculator | formula, input |
 | [Day 6](./Day-06/) | Number guessing game | random, loop |
 | [Day 7](./Day-07/) | Multiplication table | nested loop |
-| Day 8 | FizzBuzz | loop, condition |
+| [Day 8](./Day-08/) | FizzBuzz | loop, condition |
 | Day 9 | Simple countdown timer | loop, time |
 | Day 10 | Rock paper scissors | random, match |
 | Day 11 | Mad libs generator | string, input |
@@ -177,6 +177,9 @@ One-Day-One-Py-Script/
 │   └── README.md
 ├── Day-07/
 │   ├── Multiplication table.py
+│   └── README.md
+├── Day-08/
+│   ├── FizzBuzz.py
 │   └── README.md
 └── README.md
 ```
