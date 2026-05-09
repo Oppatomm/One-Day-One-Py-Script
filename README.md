@@ -44,7 +44,7 @@
 | [Day 6](./Day-06/) | Number guessing game | random, loop |
 | [Day 7](./Day-07/) | Multiplication table | nested loop |
 | [Day 8](./Day-08/) | FizzBuzz | loop, condition |
-| Day 9 | Simple countdown timer | loop, time |
+| [Day 9](./Day-09/) | Simple countdown timer | loop, time |
 | Day 10 | Rock paper scissors | random, match |
 | Day 11 | Mad libs generator | string, input |
 | Day 12 | Area calculator | function, math |
