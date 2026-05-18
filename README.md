@@ -47,7 +47,7 @@
 | [Day 9](./Day-09/) | Simple countdown timer | loop, time |
 | [Day 10](./Day-10/) | Rock paper scissors | random |
 | Day 11 | Mad libs generator | string, input |
-| Day 12 | Area calculator | function, math |
+| [Day 12](./Day-12/) | Area calculator | math |
 | Day 13 | Tip calculator | function, float |
 | Day 14 | Palindrome checker | string, function |
 | Day 15 | Factorial finder | recursion |
