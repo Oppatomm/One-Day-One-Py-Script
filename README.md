@@ -48,7 +48,7 @@
 | [Day 10](./Day-10/) | Rock paper scissors | random |
 | Day 11 | Mad libs generator | string, input |
 | [Day 12](./Day-12/) | Area calculator | math |
-| Day 13 | Tip calculator | function, float |
+| [Day 13](./Day-13/) | Tip calculator | function, float |
 | Day 14 | Palindrome checker | string, function |
 | Day 15 | Factorial finder | recursion |
 | Day 16 | Shopping cart | list, loop |
@@ -188,4 +188,4 @@ One-Day-One-Py-Script/
 
 ## Progress
 
-`7 / 99 days completed`
+`12 / 99 days completed`
