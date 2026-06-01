@@ -49,7 +49,7 @@
 | Day 11 | Mad libs generator | string, input |
 | [Day 12](./Day-12/) | Area calculator | math |
 | [Day 13](./Day-13/) | Tip calculator | function, float |
-| Day 14 | Palindrome checker | string, function |
+| [Day 14](./Day-14/) | Palindrome checker | string, function |
 | Day 15 | Factorial finder | recursion |
 | Day 16 | Shopping cart | list, loop |
 | Day 17 | Word frequency counter | dict, string |
@@ -181,6 +181,21 @@ One-Day-One-Py-Script/
 ├── Day-08/
 │   ├── FizzBuzz.py
 │   └── README.md
+├── Day-09/
+│   ├── Simple countdown timer.py
+│   └── README.md
+├── Day-10/
+│   ├── Rock paper scissors.py
+│   └── README.md
+├── Day-12/
+│   ├── Area calculator.py
+│   └── README.md
+├── Day-13/
+│   ├── Tip calculator.py
+│   └── README.md
+├── Day-14/
+│   ├── Palindrome checker.py
+│   └── README.md
 └── README.md
 ```
 
@@ -188,4 +203,4 @@ One-Day-One-Py-Script/
 
 ## Progress
 
-`12 / 99 days completed`
+`13 / 99 days completed`
