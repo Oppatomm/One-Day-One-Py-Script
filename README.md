@@ -50,7 +50,7 @@
 | [Day 12](./Day-12/) | Area calculator | math |
 | [Day 13](./Day-13/) | Tip calculator | function, float |
 | [Day 14](./Day-14/) | Palindrome checker | string, function |
-| Day 15 | Factorial finder | recursion |
+| [Day 15](./Day-15/) | Factorial finder | recursion |
 | Day 16 | Shopping cart | list, loop |
 | Day 17 | Word frequency counter | dict, string |
 | Day 18 | Student grade tracker | dict, list |
@@ -196,6 +196,9 @@ One-Day-One-Py-Script/
 ├── Day-14/
 │   ├── Palindrome checker.py
 │   └── README.md
+├── Day-15/
+│   ├── Factorial finder.py
+│   └── README.md
 └── README.md
 ```
 
@@ -203,4 +206,4 @@ One-Day-One-Py-Script/
 
 ## Progress
 
-`13 / 99 days completed`
+`14 / 99 days completed`
